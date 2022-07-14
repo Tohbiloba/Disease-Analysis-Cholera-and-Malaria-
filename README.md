@@ -33,9 +33,22 @@ The datasets were cleaned by unpivoting the columns and merging the datasets in 
 
 ![image](https://user-images.githubusercontent.com/101842162/179049871-c9fe0990-40a1-48dd-bd2a-62e103e840c4.png)
 
-* The Donut chart below shows the difference between the rate at which people die from Malaria and Cholera. Across the 9 countries people die more of Cholera than of Malaria, the slicer on the dashboard will help check for the mortality rate difference for each year or WHO region.
+* The Donut chart shows the difference between the rate at which people die from Malaria and Cholera. Across the 9 countries people die more of Cholera than of Malaria, the slicer on the dashboard will help check for the mortality rate difference for each year or WHO region.
 
 ![image](https://user-images.githubusercontent.com/101842162/179050005-d92650f5-e774-47c5-b4e5-c27bb1d545fa.png)
 
+* The line chart shows the rate of the reported cases for Malaria and Cholera per year. The number of the reported cases of Malaria has increased so much over the years while Cholera has remained almost the same across the years but there was a fall in the number of death from year 2013–2015.
 
+![image](https://user-images.githubusercontent.com/101842162/179050548-61fc48c4-a315-4e41-95b2-194f8c8d007b.png)
 
+The line chart shows the rate of the reported death for Malaria and Cholera per year. The number of the reported death from Malaria has fallen and risen over the years while the number of death from Cholera has fallen over the years.
+
+# Dashboard
+
+![image](https://user-images.githubusercontent.com/101842162/179051026-1a7eb04f-9721-4ffd-b329-5ff603ec3f0a.png)
+
+# Recommendations
+
+1. The countries should device workable methods to reduce the outbreak of these disease in their country.
+2. The countries can adopt a public sensitization from time to time to lecture the citizenry on how to prevent the outbreak of these diseases.
+3. The government should provide free check up and treatment for citizens with these diseases.
